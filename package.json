@@ -1,6 +1,7 @@
 {
   "name": "to_do_app",
   "version": "0.1.0",
+  "homepage": "https://Dallas734.github.io/to_do_app",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
